@@ -1,3 +1,5 @@
+This is a Number Guessing game created using React and TypeScript while implementing the useReducer function in the coding.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
